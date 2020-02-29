@@ -1,11 +1,11 @@
 # AsepriteGodot
-![Editor gif](media/editor.gif)
-
 An animation solution for Godot Engine and Aseprite
 
 Created by Harrison Monroe | HarrisonMonroe.com
 
 Last tested with Godot v3.1.2 and Aseprite v1.2.16.3
+
+![Editor gif](media/editor.gif)
 
 ## Purpose
 Play Animation Loops defined in Aseprite.
