@@ -1,7 +1,7 @@
 # AsepriteGodot
 An animation solution for Godot Engine and Aseprite
 
-Created by Harrison Monroe | [monroe.games](http://monroe.games/)
+Created by Harri Monroe | [3DHarri.com](http://3DHarri.com/)
 
 Last tested with Godot v3.1.2 and Aseprite v1.2.16.3
 
