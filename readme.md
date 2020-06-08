@@ -30,8 +30,7 @@ Interact with the script at runtime by calling:
 
 set_loop(), get_loop() and try_loop()
 
-For all questions and comments, contact me on Discord @ Harrison#8571.
-
+Feel free to contact me with questions and comments!
 
 ## License
 This repository is free software! See [license](license) for details.
