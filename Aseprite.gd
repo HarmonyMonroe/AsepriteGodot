@@ -1,6 +1,6 @@
 # aseprite.gd
 # An animation solution for Godot Engine and Aseprite
-# Created by Harri Monroe | 3DHarri.com
+# Created by Harmony Monroe | 2DHarmony.com
 # Last tested with Godot v3.1.2 and Aseprite v1.2.16.3
 #
 # --- Purpose ---
